@@ -1,0 +1,6 @@
+language: en
+pipeline: default
+policies:
+  - name: MemoizationPolicy
+  - name: RulePolicy
+  - name: UnexpecTEDIntentPolicy
