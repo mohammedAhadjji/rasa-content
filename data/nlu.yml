@@ -5,6 +5,7 @@ nlu:
       - hello
       - hi
       - good morning
+      - salam
   - intent: goodbye
     examples: |
       - bye
