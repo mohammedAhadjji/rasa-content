@@ -1,4 +1,3 @@
-# Dockerfile
 FROM rasa/rasa:3.5.10
  
 WORKDIR /app
